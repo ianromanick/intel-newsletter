@@ -1,5 +1,7 @@
 This repository contains (or will contain) scans of my personal collection of various Intel employee publications.
 
+These publications were discussed in a [YouTube video](https://youtu.be/gDaM1fcRxQ4).
+
 My collection includes:
 
 - Intel Pacesetter:
